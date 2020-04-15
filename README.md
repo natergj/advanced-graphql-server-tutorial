@@ -12,7 +12,7 @@ This project demonstrates how to implement advanced data resolution techniques f
 This project will implement a new GraphQL API for a hypothetical library system. The data sources will include a transactional check-in/check-out database
 running in MySQL along with a NoSQL data source containing various entity details running in MongoDB.
 
-Tutorial site can be found at [https://hydrateio.github.io/advanced-graphql-server-tutorial](https://hydrateio.github.io/advanced-graphql-server-tutorial)
+Tutorial site can be found at [https://natergj.github.io/advanced-graphql-server-tutorial/](https://natergj.github.io/advanced-graphql-server-tutorial/)
 
 ## Prerequisites
 
